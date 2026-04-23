@@ -1,4 +1,4 @@
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M6
+# 19AI304-Fundamentals-of-C-Programming-2026-Even-M6
 # IAPR-6- Module 6 - FoC
 ## 11. Implementation of the concept of pointer to function.
 ## 12. Implementation of programs using structure and union.
@@ -65,7 +65,7 @@ To develop a C program using the static storage class in a function with a param
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
 
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M6
+# 19AI304-Fundamentals-of-C-Programming-2026-Even-M6
 # IAPR-6- Module 6 - FoC
 # Ex.No:27
   Implement a C program to perform arithmetic operations (addition, subtraction, multiplication, division) on two integers using function pointers. The user should input two numbers and select the desired operation from a menu.
@@ -172,7 +172,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M6
+# 19AI304-Fundamentals-of-C-Programming-2026-Even-M6
 # IAPR-6- Module 6 - FoC
 # Ex.No:28
   Develop a C program to store details of n employees (employee number, name, and salary) using structures, and display the employee(s) with the highest salary.
@@ -266,7 +266,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
 
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M6
+# 19AI304-Fundamentals-of-C-Programming-2026-Even-M6
 # IAPR-6- Module 6 - FoC
 # Ex.No:29
   Create the C program to calculate the present age of a person by passing structure as a reference.
@@ -354,7 +354,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
 
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M6
+# 19AI304-Fundamentals-of-C-Programming-2026-Even-M6
 # IAPR-6- Module 6 - FoC
 # Ex.No:30
   Build a C program to demonstrate the use of a pointer to a union. Store an integer value in a union, access it using a union pointer, and display it as both an integer and a character.
